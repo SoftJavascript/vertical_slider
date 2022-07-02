@@ -1,1 +1,1 @@
-# vertical_slider
+# Vertical Slider
